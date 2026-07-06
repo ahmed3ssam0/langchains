@@ -79,6 +79,3 @@ res = chain.invoke({
 })
 
 print(res)
-
-# E:\ahmed\Ahmed_Essam_CV.pdf
-# C:\Users\Isllam\Desktop\Machine Learning Engineer.pdf
