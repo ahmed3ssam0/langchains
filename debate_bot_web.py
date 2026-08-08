@@ -6,7 +6,7 @@ Setup:
     pip install langchain langchain-openai streamlit
 
 Env var need:
-    OPENAI_API_KEY
+    GROQ_API_KEY
 
 Run:
     streamlit run debate_bot_web.py
